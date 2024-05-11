@@ -1,0 +1,1 @@
+http://localhost:8080/springbooty2180/admin/dist/index.html
